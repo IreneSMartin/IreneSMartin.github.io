@@ -2,7 +2,7 @@
   <img src="photo.png" width="200">
 </p>
 
-<h2 align="center">Irene Sánchez-Martín, PhD</h2>
+<h2 align="center">Irene Sánchez-Martín, PhD, DVM </h2>
 
 Developmental Biology | Neuroimmunology | Immunovirology
 RNA| Clinical Research| Translational Research
