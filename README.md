@@ -26,11 +26,20 @@ I have conducted research in international environments across Europe and the Un
 - Immuno-virology
 
 **Experimental approaches**
-- Mouse models of maternal immune activation  
-- Placental and embryonic tissue analysis  
-- Cytokine profiling and immunological assays  
+- Mouse models included a model of maternal immune activation
+- Placental and embryonic tissue analysis
+- Organoids and iPSC-based models
+- Cell culture
+- Transcriptomics: bulk RNA-seq, single-cell RNA-seq (scRNA-seq)
+- Cytokine profiling and immunological assays
+- Flow Cytometry
 - Integrative and quantitative data analysis
-
+- BSL2/BSL3
+- Imaging techniques: confocal microscopy and electron microscopy
+- Ultrasound
+- MRI
+- Clinical Chemistry and diagnostic assays
+  
 ---
 
 ## International Experience
