@@ -24,11 +24,14 @@ I have conducted research in international environments across Europe and the Un
 - RNA
 - Immuno-virology 
 
+📄 Publications
 ---
 
 ## Professional profile
 🔗 LinkedIn: https://www.linkedin.com/in/irene-sanchez-martinphd/
 🔗 ORCID: https://orcid.org/0000-0001-9202-2618 
+
+
 
 ---
 
