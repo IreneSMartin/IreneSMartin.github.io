@@ -4,8 +4,8 @@
 
 <h2 align="center">Irene Sánchez-Martín, PhD, DVM </h2>
 
-<h2 align="center">Developmental Biology | Neuroimmunology | Immunovirology
-<h2 align="center">RNA| Clinical Research| Translational Research
+<h2 align="center">Developmental Biology | Immunology | Virology
+<h2 align="center">Clinical Research| Translational Research
 
 ---
 
