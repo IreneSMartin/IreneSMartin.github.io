@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="photo.jpg" width="200">
+  <img src="photo.png" width="200">
 </p>
 
 <h2 align="center">Irene Sánchez-Martín, PhD,DVM</h2>
