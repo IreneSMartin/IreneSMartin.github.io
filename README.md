@@ -4,8 +4,6 @@
 
 <h2 align="center">Irene Sánchez-Martín, PhD,DVM</h2>
 
-<p align="center"># IreneSMartin.github.io
-
 Developmental Biology | Neuroimmunology | Immunovirology
 RNA| Clinical Research| Translational Research
 
