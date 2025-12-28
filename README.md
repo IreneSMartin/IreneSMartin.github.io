@@ -16,22 +16,47 @@ I have conducted research in international environments across Europe and the Un
 
 ---
 
-## Research interests
-- Maternal immune activation (MIA) models  
+## Research
+
+**Research focus** 
 - Placenta–brain communication and immune signaling
 - Kidney-brain communication and immune signaling
 - Cytokine-driven developmental pathways  
 - RNA
-- Immuno-virology 
+- Immuno-virology
 
-📄 Publications
+**Experimental approaches**
+- Mouse models of maternal immune activation  
+- Placental and embryonic tissue analysis  
+- Cytokine profiling and immunological assays  
+- Integrative and quantitative data analysis
+
+---
+
+## International Experience
+
+I have lived and worked in multiple countries across Europe (France, Spain, Germany, Finland) and the United States, gaining experience in diverse research environments and international collaborative settings.
+
+---
+
+## Leadership & Service
+
+- Organization of international scientific meetings and conferences  
+- Academic and industry collaborations  
+- Contribution to scientific training, outreach, and community-building initiatives
+
+---
+
+## 📄 Publications
+🔗 ORCID: https://orcid.org/0000-0001-9202-2618 
+
+## 📄 Manuscripts
+
+- Manuscripts under review or in preparation — available upon request.
 ---
 
 ## Professional profile
 🔗 LinkedIn: https://www.linkedin.com/in/irene-sanchez-martinphd/
-🔗 ORCID: https://orcid.org/0000-0001-9202-2618 
-
-
 
 ---
 
