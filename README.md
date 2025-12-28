@@ -4,8 +4,8 @@
 
 <h2 align="center">Irene Sánchez-Martín, PhD, DVM </h2>
 
-Developmental Biology | Neuroimmunology | Immunovirology
-RNA| Clinical Research| Translational Research
+<h2 align="center">Developmental Biology | Neuroimmunology | Immunovirology
+<h2 align="center">RNA| Clinical Research| Translational Research
 
 ---
 
@@ -61,8 +61,7 @@ I have lived and worked in multiple countries across Europe (France, Spain, Germ
 
 ---
 ## 📄 Manuscripts
-- Manuscripts under review or in preparation — available upon request
-  
+🔗 
 ---
 
 ## Professional profile
