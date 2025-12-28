@@ -20,10 +20,10 @@ I have conducted research in international environments across Europe and the Un
 
 **Research focus** 
 - Placenta–brain communication and immune signaling
-- Kidney-brain communication and immune signaling
-- Cytokine-driven developmental pathways  
-- RNA
-- Immuno-virology
+- Kidney-brain communication and immune signaling  
+- RNA 
+- Assessment of vaccine immunogenicity using serological and cellular assays.
+- Antimicrobial efficacy studies in preclinical models
 
 **Experimental approaches**
 - Mouse models included a model of maternal immune activation
@@ -59,15 +59,15 @@ I have lived and worked in multiple countries across Europe (France, Spain, Germ
 ## 📄 Publications
 🔗 ORCID: https://orcid.org/0000-0001-9202-2618 
 
+---
 ## 📄 Manuscripts
-
-- Manuscripts under review or in preparation — available upon request.
+- Manuscripts under review or in preparation — available upon request
+  
 ---
 
 ## Professional profile
 🔗 LinkedIn: https://www.linkedin.com/in/irene-sanchez-martinphd/
 
 ---
-
 ## Contact
 📧 irenesanchezmartin.veterinario@gmail.com
